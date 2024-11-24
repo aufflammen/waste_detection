@@ -1,1 +1,4 @@
 .ipynb_checkpoints
+*.pt
+test.ipynb
+submission.csv
